@@ -406,4 +406,6 @@ site1_npp_day
 site2_npp_day
 
 
+nowhere <- 0
+
 
